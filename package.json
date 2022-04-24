@@ -1,0 +1,30 @@
+{
+  "name": "react-native-anchorlink",
+  "version": "0.0.4",
+  "description": "You can convert Acchor tag with simple clickable title",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "link",
+    "anchor",
+    "hyperlink"
+  ],
+  "author": "Anju <anjubaladev@gmail.com>",
+  "homepage": "https://github.com/anjubala-dev/react-native-anchorlink.git#readme",
+  "bugs": {
+    "url": "https://github.com/anjubala-dev/react-native-anchorlink.git/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anjubala-dev/react-native-anchorlink.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "react-native-web": "^0.17.7"
+  },
+  "platforms": ["ios", "android", "web"]
+}
